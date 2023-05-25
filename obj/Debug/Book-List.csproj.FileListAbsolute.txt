@@ -1,0 +1,12 @@
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\bin\Debug\Book-List.exe.config
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\bin\Debug\Book-List.exe
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\bin\Debug\Book-List.pdb
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\obj\Debug\Book-List.csproj.AssemblyReference.cache
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\obj\Debug\Book-List.csproj.CoreCompileInputs.cache
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\obj\Debug\Book-List.exe
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\obj\Debug\Book-List.pdb
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\bin\Debug\Book-List.exe.manifest
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\bin\Debug\Book-List.application
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\obj\Debug\Book-List.exe.manifest
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\obj\Debug\Book-List.application
+C:\Users\Xaviel Cesar\source\repos\Book-List\Book-List\obj\Debug\Book-List.csproj.SuggestedBindingRedirects.cache
